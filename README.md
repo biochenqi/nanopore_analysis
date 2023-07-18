@@ -5,7 +5,7 @@
 
 ## Installation
 Install **hurst** module with      
-`pip install -e git+https://github.com/Mottl/hurst#egg=hurst`
+`git clone git@github.com:biochenqi/nanopore_analysis.git`
 
 ## nanopore_v3.0.sh Usage
 ```
